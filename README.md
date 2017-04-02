@@ -6,3 +6,12 @@ Second, an generation of AI based on a genome is created with random mutations i
 and the 2 with the highest score are bred to create the next generation's base genome. 
 As the program progresses, the bred AI will approach a 100% victory rate against the basic AI.
 
+### Building
+run
+```bash
+ g++ -std=c++11 *.cpp -o main
+```
+execute 
+```bash
+./main
+```
